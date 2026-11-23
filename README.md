@@ -3,7 +3,7 @@
 
 # Mozgova Angelina
 
-**System administrator · platform engineer**
+**Devops · platform engineer**
 
 *Production CI/CD, Linux, monitoring, security · applied NLU in shipped apps*
 
