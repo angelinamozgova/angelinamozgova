@@ -42,7 +42,7 @@ System administrator with production experience at a large state-owned organizat
 | | Section | Topics |
 |---|---------|--------|
 | 🛡️ | [**devops/**](https://github.com/angelinamozgova/engineering/tree/main/devops) | VPS hardening, nginx, alerts, runbooks |
-| 🎙️ | [**applied-ai/**](https://github.com/angelinamozgova/engineering/tree/main/applied-ai) | Voice → fields → API, NLU, tests |
+| 🎙️ | [**applied-ai/**](https://github.com/angelinamozgova/engineering/tree/main/applied-ai) | Voice → fields → backend, NLU, tests |
 | 📋 | [**case-studies/**](https://github.com/angelinamozgova/engineering/tree/main/case-studies) | Short product stories (no full prod dumps) |
 
 All in one repo → [**engineering**](https://github.com/angelinamozgova/engineering)
