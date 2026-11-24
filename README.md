@@ -3,7 +3,7 @@
 
 # Mozgova Angelina
 
-**Devops · platform engineer**
+**DevOps · platform engineer**
 
 *Production CI/CD, Linux, monitoring, security · applied NLU in shipped apps*
 
@@ -31,7 +31,7 @@ System administrator with production experience at a large state-owned organizat
 <details>
 <summary><b>Русский</b></summary>
 
-Системный администратор с опытом работы в крупной государственной организации. Занимаюсь CI/CD, Linux/Docker, мониторингом, реагированием на инциденты и обеспечением безопасности серверов. Также разрабатываю и поддерживаю pwa и мобильные приложения, уделяя первостепенное внимание вопросам безопасности. В этом профиле на GitHub представлены адаптированные технические заметки и примеры кода.
+Системный администратор с опытом работы в крупной государственной организации. Занимаюсь CI/CD, Linux/Docker, мониторингом, реагированием на инциденты и обеспечением безопасности серверов. Также разрабатываю и поддерживаю PWA и мобильные приложения, уделяя первостепенное внимание вопросам безопасности. В этом профиле на GitHub представлены адаптированные технические заметки и примеры кода.
 
 </details>
 
@@ -43,7 +43,7 @@ System administrator with production experience at a large state-owned organizat
 |---|---------|--------|
 | 🛡️ | [**devops/**](https://github.com/angelinamozgova/engineering/tree/main/devops) | VPS hardening, nginx, alerts, runbooks |
 | 🎙️ | [**applied-ai/**](https://github.com/angelinamozgova/engineering/tree/main/applied-ai) | Voice → fields → backend, NLU, tests |
-| 📋 | [**case-studies/**](https://github.com/angelinamozgova/engineering/tree/main/case-studies) | Short product stories (no full prod dumps) |
+| 📋 | [**case-studies/**](https://github.com/angelinamozgova/engineering/tree/main/case-studies) | Short reads: real booking app + planner, with links below |
 
 All in one repo → [**engineering**](https://github.com/angelinamozgova/engineering)
 
