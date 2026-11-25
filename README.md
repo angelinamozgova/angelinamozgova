@@ -48,6 +48,25 @@ All in one repo → [**engineering**](https://github.com/angelinamozgova/enginee
 
 ---
 
+## 📱 Published apps
+
+| Product | Link | Highlights |
+|---------|------|------------|
+| **Day planner** (iOS / cross-platform) | [App Store](https://apps.apple.com/us/developer/angelina-mozgova/id6809382090) | Tasks, habits, shopping lists · voice capture · rule-based NLU (public samples in [engineering](https://github.com/angelinamozgova/engineering)) |
+| **Asmasters** | [asmasters.ru/app](https://asmasters.ru/app) | Service appointment booking · voice → structured fields · staff schedule · production web + backend |
+
+<details>
+<summary><b>Русский</b></summary>
+
+| Продукт | Ссылка |
+|---------|--------|
+| Планировщик | [App Store](https://apps.apple.com/us/developer/angelina-mozgova/id6809382090) |
+| Asmasters | [asmasters.ru/app](https://asmasters.ru/app) |
+
+</details>
+
+---
+
 ## Stack
 
 <div align="center">
