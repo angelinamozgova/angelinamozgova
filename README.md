@@ -5,7 +5,7 @@
 
 **DevOps · platform engineer**
 
-*Production CI/CD, Linux, monitoring, security · applied NLU in shipped apps*
+*Production CI/CD, Linux, monitoring, security · rule-based voice & NLU in shipped apps*
 
 📍 Da Nang, Vietnam · remote OK
 
@@ -42,7 +42,7 @@ System administrator with production experience at a large state-owned organizat
 | | Section | Topics |
 |---|---------|--------|
 | 🛡️ | [**devops/**](https://github.com/angelinamozgova/engineering/tree/main/devops) | VPS hardening, nginx, alerts, runbooks |
-| 🎙️ | [**applied-ai/**](https://github.com/angelinamozgova/engineering/tree/main/applied-ai) | Voice → fields → backend, NLU, tests |
+| 🎙️ | [**voice-pipelines/**](https://github.com/angelinamozgova/engineering/tree/main/voice-pipelines) | Voice → fields → backend, NLU, tests |
 
 All in one repo → [**engineering**](https://github.com/angelinamozgova/engineering)
 
@@ -55,6 +55,7 @@ All in one repo → [**engineering**](https://github.com/angelinamozgova/enginee
 <img src="https://img.shields.io/badge/Linux-E95420?logo=linux&logoColor=white" alt="Linux">
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=white" alt="nginx">
+<img src="https://img.shields.io/badge/Tailscale-242424?logo=tailscale&logoColor=white" alt="Tailscale">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white" alt="GitLab CI">
 <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" alt="Grafana">
@@ -71,5 +72,5 @@ All in one repo → [**engineering**](https://github.com/angelinamozgova/enginee
 
 | Product | Link | Highlights |
 |---------|------|------------|
-| **Day planner**<br><sub>iOS · PWA</sub> | [App Store](https://apps.apple.com/us/developer/angelina-mozgova/id6809382090) | Social productivity app, not a flat todo list (Flutter, PostgreSQL, friend marathons & shared progress)<br>Voice: STT → parser → backend, no LLM in the core path (rule-based NLU, tests in [engineering](https://github.com/angelinamozgova/engineering))<br>Cross-platform **iOS + PWA** (Flutter / web)<br>Gamified daily loop (streaks, challenges, visible momentum) |
+| **DayGoal**<br><sub>iOS · PWA</sub> | [App Store](https://apps.apple.com/us/developer/angelina-mozgova/id6809382090) | Social productivity app, not a flat todo list (Flutter, PostgreSQL, friend marathons & shared progress)<br>Voice: STT → parser → backend, no LLM in the core path (rule-based NLU, tests in [engineering](https://github.com/angelinamozgova/engineering))<br>Cross-platform **iOS + PWA** (Flutter / web)<br>Gamified daily loop (streaks, challenges, visible momentum) |
 | **Asmasters**<br><sub>appointment CRM</sub> | [asmasters.ru/app](https://asmasters.ru/app) | Appointment CRM & master schedule (PostgreSQL, API backend, nginx / TLS)<br>Voice intake: client / service / slot / price (platform STT + rule-based NLU, salon tests on GitHub)<br>**VK & Telegram API** (notifications, campaigns)<br>Promo images on-server (templates / layout logic, no external LLM tokens)<br>Incident-ready hosting (UFW, monitoring — [devops](https://github.com/angelinamozgova/engineering/tree/main/devops)) |
