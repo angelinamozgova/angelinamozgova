@@ -69,22 +69,7 @@ All in one repo → [**engineering**](https://github.com/angelinamozgova/enginee
 
 ## 📱 Published apps
 
-| Product | Link |
-|---------|------|
-| **Day planner** (iOS / cross-platform) | [App Store](https://apps.apple.com/us/developer/angelina-mozgova/id6809382090) |
-| **Asmasters** | [asmasters.ru/app](https://asmasters.ru/app) |
-
-### Day planner
-
-- Social productivity app, not a flat todo list (Flutter, PostgreSQL, friend marathons & shared progress)
-- Voice: STT → parser → backend, no LLM in the core path (rule-based NLU, regression tests in [engineering](https://github.com/angelinamozgova/engineering))
-- Cross-platform **iOS + PWA** (Flutter / web)
-- Gamified daily loop that keeps retention (streaks, challenges, visible momentum)
-
-### Asmasters
-
-- Appointment CRM & master schedule (PostgreSQL, API backend, nginx / TLS)
-- Voice intake: client / service / slot / price (platform STT + rule-based NLU, salon tests on GitHub)
-- **VK & Telegram API** (notifications, campaigns)
-- Promo image generation (server-side templates / layout logic, no external LLM tokens)
-- Incident-ready hosting (UFW, monitoring — [engineering/devops](https://github.com/angelinamozgova/engineering/tree/main/devops))
+| Product | Link | Highlights |
+|---------|------|------------|
+| **Day planner**<br><sub>iOS · PWA</sub> | [App Store](https://apps.apple.com/us/developer/angelina-mozgova/id6809382090) | Social productivity app, not a flat todo list (Flutter, PostgreSQL, friend marathons & shared progress)<br>Voice: STT → parser → backend, no LLM in the core path (rule-based NLU, tests in [engineering](https://github.com/angelinamozgova/engineering))<br>Cross-platform **iOS + PWA** (Flutter / web)<br>Gamified daily loop (streaks, challenges, visible momentum) |
+| **Asmasters**<br><sub>appointment CRM</sub> | [asmasters.ru/app](https://asmasters.ru/app) | Appointment CRM & master schedule (PostgreSQL, API backend, nginx / TLS)<br>Voice intake: client / service / slot / price (platform STT + rule-based NLU, salon tests on GitHub)<br>**VK & Telegram API** (notifications, campaigns)<br>Promo images on-server (templates / layout logic, no external LLM tokens)<br>Incident-ready hosting (UFW, monitoring — [devops](https://github.com/angelinamozgova/engineering/tree/main/devops)) |
