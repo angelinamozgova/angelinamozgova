@@ -48,25 +48,6 @@ All in one repo → [**engineering**](https://github.com/angelinamozgova/enginee
 
 ---
 
-## 📱 Published apps
-
-| Product | Link | Highlights |
-|---------|------|------------|
-| **Day planner** (iOS / cross-platform) | [App Store](https://apps.apple.com/us/developer/angelina-mozgova/id6809382090) | Tasks, habits, shopping lists · voice capture · rule-based NLU (public samples in [engineering](https://github.com/angelinamozgova/engineering)) |
-| **Asmasters** | [asmasters.ru/app](https://asmasters.ru/app) | Service appointment booking · voice → structured fields · staff schedule · production web + backend |
-
-<details>
-<summary><b>Русский</b></summary>
-
-| Продукт | Ссылка |
-|---------|--------|
-| Планировщик | [App Store](https://apps.apple.com/us/developer/angelina-mozgova/id6809382090) |
-| Asmasters | [asmasters.ru/app](https://asmasters.ru/app) |
-
-</details>
-
----
-
 ## Stack
 
 <div align="center">
@@ -83,3 +64,27 @@ All in one repo → [**engineering**](https://github.com/angelinamozgova/enginee
 </div>
 
 <p align="center"><sub>Private product code stays private · public engineering slice only</sub></p>
+
+---
+
+## 📱 Published apps
+
+| Product | Link |
+|---------|------|
+| **Day planner** (iOS / cross-platform) | [App Store](https://apps.apple.com/us/developer/angelina-mozgova/id6809382090) |
+| **Asmasters** | [asmasters.ru/app](https://asmasters.ru/app) |
+
+### Day planner
+
+- Social productivity app, not a flat todo list (Flutter, PostgreSQL, friend marathons & shared progress)
+- Voice: STT → parser → backend, no LLM in the core path (rule-based NLU, regression tests in [engineering](https://github.com/angelinamozgova/engineering))
+- Cross-platform **iOS + PWA** (Flutter / web)
+- Gamified daily loop that keeps retention (streaks, challenges, visible momentum)
+
+### Asmasters
+
+- Appointment CRM & master schedule (PostgreSQL, API backend, nginx / TLS)
+- Voice intake: client / service / slot / price (platform STT + rule-based NLU, salon tests on GitHub)
+- **VK & Telegram API** (notifications, campaigns)
+- Promo image generation (server-side templates / layout logic, no external LLM tokens)
+- Incident-ready hosting (UFW, monitoring — [engineering/devops](https://github.com/angelinamozgova/engineering/tree/main/devops))
